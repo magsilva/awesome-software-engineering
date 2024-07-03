@@ -1,5 +1,8 @@
 # Software engineering
 
+## Project build / Dependency management
+  * [PDM](https://github.com/pdm-project/pdm}: Dependency management for Python software projects.
+
 ## Software testing
 
 ### Mutation testing
