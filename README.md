@@ -5,6 +5,9 @@
 
 ## Software development
 
+### Debugging
+  * [gdbgui](https://www.gdbgui.com/): Web application that provides a GUI for debugging using GNU gdb.
+
 ### Libraries
   * [pyexcel](https://github.com/pyexcel/pyexcel): Python library to manipulate (read and write) data in xls, xlsx, ods and csv files.
 
